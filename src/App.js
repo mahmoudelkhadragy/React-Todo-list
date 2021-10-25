@@ -8,7 +8,7 @@ class App extends Component {
     items : [
       {id:1 , name: "Mahmoud", age: 25},
       {id:2 , name: "Mustafa", age: 20},
-      {id:3 , name: "Ali", age: 23}
+      {id:3 , name: "Ali", age: 25}
     ]
   }
   
